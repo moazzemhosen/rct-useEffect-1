@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": " Learn json-server",
+      "author": false
+    },
+    {
+      "id": 2,
+      "title": "Learn JavaScript",
+      "author": false
+    },
+    {
+      "id": 3,
+      "title": "Learn React",
+      "author": false
+    },
+    {
+      "title": "ggg",
+      "author": false,
+      "id": 4
+    },
+    {
+      "title": "ghxg",
+      "author": false,
+      "id": 5
+    },
+    {
+      "title": "gz",
+      "author": false,
+      "id": 6
+    }
+  ]
+}
